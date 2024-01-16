@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-vod$t$20m&_-8wpo3ndod%!7uxz14q2g(vu@l*c=7a8=is0h^g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["8000-nielmc-django-project-0kylrta3cs.us2.codeanyapp.com"]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
